@@ -1,5 +1,7 @@
 # @feathersjs/primus-client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/primus-client.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/feathersjs/primus-client.png?branch=master)](https://travis-ci.org/feathersjs/primus-client)
 [![Code Climate](https://codeclimate.com/github/feathersjs/primus-client/badges/gpa.svg)](https://codeclimate.com/github/feathersjs/primus-client)
 [![Test Coverage](https://codeclimate.com/github/feathersjs/primus-client/badges/coverage.svg)](https://codeclimate.com/github/feathersjs/primus-client/coverage)

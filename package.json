@@ -52,7 +52,7 @@
   "devDependencies": {
     "@feathersjs/commons": "^1.4.0",
     "@feathersjs/feathers": "^3.0.5",
-    "@feathersjs/primus": "^3.0.3",
+    "@feathersjs/primus": "^3.2.0",
     "chai": "^4.1.2",
     "feathers-memory": "^2.0.0",
     "istanbul": "^1.1.0-alpha.1",
